@@ -204,16 +204,10 @@
                   role="tabpanel"
                   aria-labelledby="pills-1-tab"
                 >
-                  <p class="mb-0">
-                    Furriend mengutamakan kualitas pemberian layanan kepada
-                    pelanggannya agar mereka dapat merasakan kenyamanan.
-                    Furriend menerapkan metode excellent service yaitu
-                    memberikan pelayanan dengan maksimal secara konsisten
-                    sehingga mampu melampaui ekspektasi pelanggan. Salah satu
-                    bentuk pelayanan yang diberikan yaitu dengan melakukan
-                    pelayanan berdasarkan keterangan jadwal serta tempat yang
-                    dipesan oleh pelanggan.
-                  </p>
+                  <li>Menyediakan Produk Berkualitas</li>
+                  <li>Menawarkan Layanan Perawatan Lengkap</li>
+                  <li>Konsultasi Kesejahteraan Hewan</li>
+                  <li>Meningkatkan Pengalaman Pelanggan</li>
                 </div>
                 <div
                   class="tab-pane fade"
@@ -222,12 +216,11 @@
                   aria-labelledby="pills-2-tab"
                 >
                   <p class="mb-0">
-                    Furriend memberikan inovasi pengembangan usaha digital pada
-                    usaha petshop lokal dalam melayani mekanisme pelayanan
-                    secara konvensional sehingga dapat mempermudah proses
-                    perawatan pada hewan peliharaan. Kerjasama dengan pihak vet
-                    (dokter hewan) menjadi salah satu tujuan penting untuk
-                    mendukung kualitas pelayanan perawatan di bidang kesehatan.
+                  Sebagai usaha Pet Shop and Care modern yang menyediakan berbagai macam
+                  produk dan layanan secara lengkap dan didukung melalui kerjasama dengan
+                  veterinarians (dokter hewan) dalam menjamin kualitas pemberian pelayanan di
+                  bidang kesehatan sehingga mampu memberikan inspirasi pada usaha petshop
+                  lokal dalam melayani mekanisme pelayanan secara konvensional.
                   </p>
                 </div>
               </div>
